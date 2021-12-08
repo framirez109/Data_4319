@@ -1,4 +1,4 @@
-Essentials of Reinforcement Learning
+                                                              Essentials of Reinforcement Learning
 
 RL involves an agent acting within an environment.
 
