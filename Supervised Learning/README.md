@@ -1,4 +1,4 @@
-Supervised Learning
+Essentials of Supervised Learning
 
 Supervised learning we have both x and y varible where x represents the data we utilze to make predictions known as labels. 
 The goal of Supervised learning is to use our model to learn some function that uses x to approximate y.
