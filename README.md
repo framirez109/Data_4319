@@ -1,7 +1,7 @@
-This repository is to be used as a guide to DATA_4319. The course covers Supervised, Unsupervised, and Reinforcement learning algorithms.
-
 ![image](https://user-images.githubusercontent.com/90532523/145304219-ebb474de-6a03-48ba-9c36-afe45c32ef40.png)
 
+
+This repository is to be used as a guide to DATA_4319. The course covers Supervised, Unsupervised, and Reinforcement learning algorithms.
 
 
 <h2>Supervised Learning</h2>
