@@ -17,20 +17,20 @@ Reinforcement algorithms are problems we can frame as having an agent taking a s
 
 In this repository, the following algorithms are covered:
 
-- Supervised Learning 
+**Supervised Learning**
 
-Linear Regression
-Perceptron
-Logistic Regression
-K-Nearest Neighbors
-Decision Trees
-Performance Measure
-Ensemble & Random Forest
+- Linear Regression
+- Perceptron
+- Logistic Regression
+- K-Nearest Neighbors
+- Decision Trees
+- Performance Measure
+- Ensemble & Random Forest
 
--Unsupervised Learning 
+**Unsupervised Learning**
 
-K-Means Clustering
+- K-Means Clustering
 
-- Reinforcement Learning 
+**Reinforcement Learning** 
 
-The REINFORCE Algorithm
+- The REINFORCE Algorithm
