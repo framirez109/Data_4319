@@ -6,7 +6,7 @@ In Supervised learning problems we have both an x and y variable where x represe
    - Regression models have y as a continuous variable. Examples would be such as the number of sales of a product or predicting the future price of an asset.
    - Classification models have a categorical y value that consist of a label that assigns each instance of x to a particular category.
   
-Unsupervised Learning 
+<h1>Unsupervised Learning</h1>
 
 Unlike supervised learning, unsupervised learning does not have a label y. These types of algorithms have some type of data x that we can put into a model, but we have no outcome y to predict. The goal of these algorithms is to have our model discover some hidden, underlying structure within the data. Such examples of this would be generative adversarial networks or k-means clustering.
 
