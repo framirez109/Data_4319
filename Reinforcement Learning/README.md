@@ -1,10 +1,10 @@
-Essentials of Reinforcement Learning
+<h2>Essentials of Reinforcement Learning</h2>
 
 RL involves an agent acting within an environment.
 
 The environment returns two types of information to the agent:
 
-**Reward:** 
+**Reward** 
 <p>This is a scalar value that provides quantitative feedback on the action that the agent took at a timestep t. The agent’s objective is to maximize the rewards it accumulates, and so the rewards are what reinforce productive behaviors that the agent discovers under environmental conditions.</p>
 
 **State**
@@ -13,4 +13,4 @@ The environment returns two types of information to the agent:
 Repeating the above two steps in a loop until reaching some terminal state. This terminal state could be reached by, for example, attaining the maximum reward possible, attaining some specific desired outcome, running out of allotted time, using up the maximum number of permitted moves in a game, or the agent dying in a game. 
 
 Reinforcement learning problems are sequential decision-making problems.
-d
+
