@@ -34,3 +34,9 @@ In this repository, the following algorithms are covered:
 **Reinforcement Learning** 
 
 - The REINFORCE Algorithm
+
+<h3>References</h3>
+
+Deep Learning Illustrated, by John Krohn
+Toward data science 
+
