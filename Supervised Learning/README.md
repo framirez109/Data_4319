@@ -4,8 +4,7 @@ Supervised learning we have both x and y varible where x represents the data we 
 The goal of Supervised learning is to use our model to learn some function that uses x to approximate y.
 There are typically two types of supervised learning: Regression and Classification models.
 
-Regression Models deal with continious variable. Examples include predicting the number of sales of a product
-or predicting the future asset like a home
+Regression Models deal with continious variable. A typical task is to predict a target numberic value given a set of features called predictors. In machine learning, an attribute is a data type(e.g "mileage") while a feature generally means an attribute  plus its value.
 
 Classification models deal with catergorical variables. In this model our y-values consit of labels that assign
 each instance of x to a particular category.
