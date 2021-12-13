@@ -19,6 +19,8 @@ Unlike supervised learning, unsupervised learning does not have a label y. These
 
 Reinforcement algorithms are problems we can frame as having an agent taking a sequence of actions within some environment. The agent’s actions influence the information that the environment provides to the agent- that is, the agent receives direct feedback on the actions it takes. Examples of this would be an algorithm driving a car or playing a video game. 
 
+<h2>Directory</h2>
+
 In this repository, the following algorithms are covered:
 
 **Supervised Learning**
