@@ -41,6 +41,9 @@ In this repository, the following algorithms are covered:
 
 <h3>References</h3>
 
-Deep Learning Illustrated, by John Krohn
+- Deep Learning Illustrated, by John Krohn
 Toward data science 
+- Thoughtful Machine Learning with Python by Mathew Kirk
+- \
+
 
